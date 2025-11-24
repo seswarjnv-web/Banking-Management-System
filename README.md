@@ -14,6 +14,7 @@ Follow these steps to set up and run the project on your local machine:
    ```shell
    javac *.java
 3. **Run the Application**:
+   
 
    ```shell
    java BankingApp
